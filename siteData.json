@@ -7,7 +7,7 @@
       "headings": {
         "about-us": "About Us",
         "project-team": "Project team",
-        "john-doe": "John Doe",
+        "andrew-yapp": "Andrew Yapp",
         "jane-doe": "Jane Doe",
         "wong-ji-kean": "Wong Ji Kean",
         "kyle-zheng-ching-chan": "Kyle Zheng Ching Chan",
@@ -132,6 +132,14 @@
       "title": "",
       "headings": {
         "addressbook-level-3": "AddressBook Level-3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/andrewyapp.md",
+      "title": "Andrew Yapp's Project Portfolio Page",
+      "headings": {
+        "project-modcraft": "Project: ModCraft"
       },
       "headingKeywords": {}
     },
