@@ -144,6 +144,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/xcolourx.md",
+      "title": "Kyle Zheng Ching Chan's Project Portfolio Page",
+      "headings": {
+        "project-modcraft": "Project: ModCraft"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "tutorials/AddRemark.md",
       "title": "Tutorial: Adding a command",
       "headings": {
