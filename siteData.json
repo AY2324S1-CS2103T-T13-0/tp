@@ -8,7 +8,7 @@
         "about-us": "About Us",
         "project-team": "Project team",
         "andrew-yapp": "Andrew Yapp",
-        "jane-doe": "Jane Doe",
+        "marques-tye": "Marques Tye",
         "wong-ji-kean": "Wong Ji Kean",
         "kyle-zheng-ching-chan": "Kyle Zheng Ching Chan",
         "james-doe": "James Doe"
@@ -156,6 +156,14 @@
       "title": "John Doe's Project Portfolio Page",
       "headings": {
         "project-addressbook-level-3": "Project: AddressBook Level 3"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/marquestye.md",
+      "headings": {
+        "marques-s-project-portfolio-page": "Marques's Project Portfolio Page",
+        "project-modcraft": "Project ModCraft"
       },
       "headingKeywords": {}
     },
