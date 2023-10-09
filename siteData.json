@@ -132,14 +132,6 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/andrewyapp.md",
-      "title": "Andrew Yapp's Project Portfolio Page",
-      "headings": {
-        "project-modcraft": "Project: ModCraft"
-      },
-      "headingKeywords": {}
-    },
-    {
       "src": "team/ji-just-ji.md",
       "headings": {
         "ji-kean-s-project-portfolio-page": "Ji Kean's Project Portfolio Page",
@@ -160,6 +152,14 @@
       "headings": {
         "marques-s-project-portfolio-page": "Marques's Project Portfolio Page",
         "project-modcraft": "Project ModCraft"
+      },
+      "headingKeywords": {}
+    },
+    {
+      "src": "team/rocketninja7.md",
+      "title": "Andrew Yapp's Project Portfolio Page",
+      "headings": {
+        "project-modcraft": "Project: ModCraft"
       },
       "headingKeywords": {}
     },
