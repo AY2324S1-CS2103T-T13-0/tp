@@ -113,6 +113,7 @@
         "features": "Features",
         "viewing-help-help": "Viewing help : help",
         "adding-a-module-add": "Adding a module: add",
+        "editing-a-module-edit": "Editing a module: edit",
         "deleting-a-module-delete": "Deleting a module : delete",
         "finding-information-about-a-module-info": "Finding Information about a module: info",
         "calculating-the-total-current-cap": "Calculating the total current CAP:",
